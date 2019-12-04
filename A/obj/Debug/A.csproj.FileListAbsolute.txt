@@ -1,0 +1,13 @@
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\obj\Debug\A.exe
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\obj\Debug\A.pdb
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\bin\Debug\A.exe
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\bin\Debug\A.pdb
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\obj\Debug\A.Properties.Resources.resources
+C:\Users\oma25\Desktop\25-3-2014\randm512\A\A\obj\Debug\A.csproj.GenerateResource.Cache
+C:\Users\Obada\Desktop\A\A\obj\Debug\A.exe
+C:\Users\Obada\Desktop\A\A\obj\Debug\A.pdb
+C:\Users\Obada\Desktop\A\A\bin\Debug\A.exe
+C:\Users\Obada\Desktop\A\A\bin\Debug\A.pdb
+C:\Users\Obada\Desktop\A\A\obj\Debug\A.Properties.Resources.resources
+C:\Users\Obada\Desktop\A\A\obj\Debug\A.csproj.GenerateResource.Cache
